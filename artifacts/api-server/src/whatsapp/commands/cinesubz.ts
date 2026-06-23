@@ -175,7 +175,7 @@ async function sendDocWithCaption(
 // ─── Commands ────────────────────────────────────────────────────────────────
 
 const API_BASE = "https://api-dark-shan-yt.koyeb.app/movie";
-const API_KEY  = "edbcfabbca5a9750";
+const API_KEY  = "e3eefa2ab2efe9a1";
 
 cmd(
   {
